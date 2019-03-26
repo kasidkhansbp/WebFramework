@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<projectA>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+  <url>http://www.yellowpages.com/</url>
+</projectA>
+<projectB>
+  <to>B Ravi</to>
+  <from>B Jani</from>
+  <heading>B Reminder</heading>
+  <body>B Don't forget me this weekend!</body>
+</projectB>
+</data>
